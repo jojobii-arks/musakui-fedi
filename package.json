@@ -28,8 +28,8 @@
 		"./well-known": "./lib/well-known/index.js",
 		".": "./lib/index.js"
 	},
-	"scripts": {
-	},
+	"scripts": {},
 	"devDependencies": {
+		"typedoc": "^0.23.23"
 	}
 }
