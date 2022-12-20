@@ -1,5 +1,7 @@
 {
   "$schema": "https://typedoc.org/schema.json",
+  "cleanOutputDir": true,
+  "out": ".docs",
   "entryPointStrategy": "expand",
   "entryPoints": ["."],
   "exclude": ["node_modules/**/*"],
